@@ -1,0 +1,9 @@
+:root {
+  /* Fonts */
+  --main-font: "Playfair Display", serif;
+  --secondary-font: "Ubuntu", sans-serif;
+  /* Colors */
+  --main-color: #7d7d7d;
+  --accent-color: #03a9f4;
+  --secondary-color: #b4ad9e;
+}
